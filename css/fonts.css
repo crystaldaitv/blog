@@ -1,0 +1,20 @@
+/* -------------------------------------- Abel -------------------------------------- */
+@font-face {
+    font-family: Abel;
+    src: url('../fonts/abel/Abel-Regular.ttf');
+}
+/* -------------------------------------- Anton -------------------------------------- */
+@font-face {
+    font-family: Anton;
+    src: url('../fonts/anton/Anton-Regular.ttf');
+}
+/* -------------------------------------- Josefin -------------------------------------- */
+@font-face {
+    font-family: Josefin;
+    src: url('../fonts/josefin_sans/static/JosefinSans-Regular.ttf');
+}
+/* -------------------------------------- Livvic -------------------------------------- */
+@font-face {
+    font-family: Livvic;
+    src: url('../fonts/livvic/Livvic-Regular.ttf');
+}
